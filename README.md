@@ -1,5 +1,5 @@
-- 👋 Hi, I’m rohit
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning web development 
-- 📫 i leaves in Delhi 
-
+- 🔭 I’m currently working on **HRMS, Virtual Labs, and Service-based platforms**
+- 🌱 I’m focusing on **React.js, Django, and Laravel**
+- 💬 Ask me about **Python, Flask, React, PHP, MySQL**
+- 💡 I love building **clean UIs and scalable backends**
+- 📫 Reach me at: **shawr1999@gmail.com**
